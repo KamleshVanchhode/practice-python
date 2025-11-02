@@ -4,7 +4,7 @@ This is my first step in the IT career.
 ## 👋 Hi, I'm Kamlesh Vanchhode
 
 🚀 I'm taking my **first step in the IT field** as an aspiring **Data Analyst**.  
-Currently, I'm learning **MS Excel, SQL, Python, and Power BI** through an Internshala Data Analytics course.
+Currently, I'm learning **MS Excel, SQL, Python, and Power BI**  Data Analytics course.
 
 After spending time preparing for government exams, I decided to follow my passion for **data and technology** —  
 to build a career that helps me turn data into powerful insights.
