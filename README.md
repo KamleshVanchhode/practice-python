@@ -1,24 +1,24 @@
-# 🐍 practice-python
-This is my first step in the IT career.
+🐍 Practice Python
 
-## 👋 Hi, I'm Kamlesh Vanchhode
+This is my first step toward building a strong foundation in IT.
 
-🚀 I'm taking my **first step in the IT field** as an aspiring **Data Analyst**.  
-Currently, I'm learning **MS Excel, SQL, Python, and Power BI**  Data Analytics course.
+👋 Hi, I'm Kamlesh Vanchhode
 
-After spending time preparing for government exams, I decided to follow my passion for **data and technology** —  
-to build a career that helps me turn data into powerful insights.
+🚀 I'm starting my journey in the IT and programming world by learning Python — from basics to advanced concepts.
+After spending some time preparing for government exams, I realized my passion lies in technology and coding.
+Now, I'm focused on improving my programming skills step by step to build a successful career in tech.
 
----
+📘 What I'm Learning
 
-### 📘 What I'm Learning
-- **MS Excel:** Data cleaning, formulas, pivot tables, and charts  
-- **SQL:** Querying, filtering, joins, and database management  
-- **Python:** Data types, loops, conditions, and libraries for data analysis  
-- **Power BI:** Data visualization and dashboard building  
+Python Basics: Syntax, variables, data types, loops, and conditions
 
----
+Intermediate Concepts: Functions, lists, tuples, and dictionaries
 
-### 🎯 Goals
-To gain hands-on experience in data analysis, build real-world projects,  
-and grow step-by-step in my data analytics journey.
+Advanced Topics (Coming Soon): File handling, libraries, and mini-projects
+
+Tools: GitHub for version control and project sharing
+
+🎯 Goals
+
+To build a strong base in Python, create small projects,
+and gradually move toward advanced programming and real-world applications.
